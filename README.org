@@ -1,0 +1,13 @@
+#+TITLE: BreakOut
+
+* Breakout
+    Breakout is a classic 2D game.
+
+** Build Instructions
+#+BEGIN_SRC bash
+git clone https://github.com/khanalnabin/breakout.git
+cd breakout
+mkdir build
+make
+make run
+#+END_SRC

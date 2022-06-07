@@ -1,6 +1,4 @@
-#+TITLE: BreakOut
-
-* Breakout
+* BreakOut
     Breakout is a classic 2D game.
 
 ** Build Instructions
